@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MyKraftySkills-Organization.github.io/code-pen-clone/static/css/main.03e06907.chunk.css",
+    "main.js": "/MyKraftySkills-Organization.github.io/code-pen-clone/static/js/main.ab7efe9f.chunk.js",
+    "main.js.map": "/MyKraftySkills-Organization.github.io/code-pen-clone/static/js/main.ab7efe9f.chunk.js.map",
+    "runtime-main.js": "/MyKraftySkills-Organization.github.io/code-pen-clone/static/js/runtime-main.8eb72460.js",
+    "runtime-main.js.map": "/MyKraftySkills-Organization.github.io/code-pen-clone/static/js/runtime-main.8eb72460.js.map",
+    "static/css/2.ce280647.chunk.css": "/MyKraftySkills-Organization.github.io/code-pen-clone/static/css/2.ce280647.chunk.css",
+    "static/js/2.05b1cb86.chunk.js": "/MyKraftySkills-Organization.github.io/code-pen-clone/static/js/2.05b1cb86.chunk.js",
+    "static/js/2.05b1cb86.chunk.js.map": "/MyKraftySkills-Organization.github.io/code-pen-clone/static/js/2.05b1cb86.chunk.js.map",
+    "index.html": "/MyKraftySkills-Organization.github.io/code-pen-clone/index.html",
+    "precache-manifest.ba108bd9e8a4f03a52d503357b41cd31.js": "/MyKraftySkills-Organization.github.io/code-pen-clone/precache-manifest.ba108bd9e8a4f03a52d503357b41cd31.js",
+    "service-worker.js": "/MyKraftySkills-Organization.github.io/code-pen-clone/service-worker.js",
+    "static/css/2.ce280647.chunk.css.map": "/MyKraftySkills-Organization.github.io/code-pen-clone/static/css/2.ce280647.chunk.css.map",
+    "static/css/main.03e06907.chunk.css.map": "/MyKraftySkills-Organization.github.io/code-pen-clone/static/css/main.03e06907.chunk.css.map",
+    "static/js/2.05b1cb86.chunk.js.LICENSE.txt": "/MyKraftySkills-Organization.github.io/code-pen-clone/static/js/2.05b1cb86.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8eb72460.js",
+    "static/css/2.ce280647.chunk.css",
+    "static/js/2.05b1cb86.chunk.js",
+    "static/css/main.03e06907.chunk.css",
+    "static/js/main.ab7efe9f.chunk.js"
+  ]
+}
